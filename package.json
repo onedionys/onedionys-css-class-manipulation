@@ -1,6 +1,6 @@
 {
   "name": "onedionys-css-class-manipulation",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (CSS Class Manipulation) - Functions to add, remove, or modify CSS classes on DOM elements.",
   "main": "src/cssClassManipulation.js",
   "directories": {
